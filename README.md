@@ -99,7 +99,7 @@ Records are stored in `students.txt` using a pipe-delimited format.
 Example:
 
 ```text
-Alex|Morgan|1001|Computer Science|02/14/2004|Boston MA|3.7
+Alex|Morgan|100001|Computer Science|02/14/2004|Boston MA|3.7
 ```
 
 The dataset was expanded to evaluate how the application handles larger record collections, table navigation, searching, and academic summary calculations.
