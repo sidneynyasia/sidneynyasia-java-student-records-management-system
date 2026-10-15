@@ -11,7 +11,7 @@ This project began as a student database management application and was expanded
 
 ![Student Records Administration Dashboard](screenshots/student_records_dashboard.png)
 
-The dashboard provides an overview of university enrollment information, including student records, GPA statistics, and academic major distribution.
+The goal of my dashboard is to provide an overview of university enrollment information, including student records, GPA statistics, and academic major distribution.
 
 ### Dashboard Highlights
 
